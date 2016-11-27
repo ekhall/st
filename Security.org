@@ -1,0 +1,16 @@
+#+BEGIN_COMMENT -------------------------
+E. Kevin Hall
+kevin.hall@yale.edu
+AI in Medicine 
+Sat, Nov 26, 2016
+
+Org -> Reveal.JS presentation
+#+END_COMMENT ---------------------------
+
+#+REVEAL_ROOT: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: blood
+#+OPTIONS: reveal_title_slide:nil toc:nil num:nil
+
+* Cloud Computing and Data Security
+E. Kevin Hall

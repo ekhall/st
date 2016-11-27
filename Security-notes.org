@@ -1,0 +1,38 @@
+#+BEGIN_COMMENT
+
+Notes on Security Talk for AI in Medicine
+
+#+END_COMMENT
+#+STARTUP: indent
+
+* https://www.pluralsight.com/resource-center/webinars/cyber-security/watch--cyber-security
+
+- Popular car, particularly in Norway.
+- The mobile app for this had a glaring problem: could control features of any vehicle from the smartphone.
+  All you needed was the VIN number. But every car has this printed in the windscreen. Really only need the last few digits as well.
+- The mobile app for this had a glaring problem: could control features of any vehicle from the smartphone.
+
+** 55 million records of Philippino Citizens  
+- half of the company's records were made public.
+- 
+
+** Dropbox was hacked in 2012
+Not until Aug 2016 until we found out how significant it was.
+Found that 68 million accounts - hashed passwords and accounts.
+Hashed with blowfish - bcrypt cypher. Half use bcrypt - very strong, then old way sha.
+As organizations are upgrading their are doing so in an incremental fashion, 
+
+** Bluesnap and Regpack? 25 minutes in the videl
+Regsnap does something where their registration goes to bluesnap.
+desktop image - grey was personal info, red was credit card info.
+Arrow is the CVV number - not allowed to store at all.
+
+** Yahoo event. Half a billion records stollen from them in 2014. 
+Another nation state it is thought.
+
+** Attack on DigiNotar by Iran.
+DigiNotar was a digital certificate authority.
+When hacked - can issue false certs and do man in the middle.
+
+** Tunisian government - facebook over http.
+inserted keyloggers - took password off the websites. 
